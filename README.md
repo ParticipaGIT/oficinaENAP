@@ -43,7 +43,16 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Na ribanceira estirado
     Com um punhal no coração
 
+    A garota que ouviu as batucadas
+    Ao acordar e ratificar o acontecido
+    sentiu que o coração entristeceu
+    pois no morro agora morreu 
+    um dos batuques que aprendeu
+    
     Lá no morro uma luz somente havia
     Era Sol quando o samba acabou
     De noite não houve lua 
     ninguém cantou
+    
+   
+    
