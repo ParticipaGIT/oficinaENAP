@@ -8,7 +8,13 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Lá no morro da Mangueira
     Bem em frente a ribanceira
     Uma cruz a gente vê
-
+    
+Se há um lugar que todos conhecem, é o Morro da Mangueira.
+De dia é só alegria. As crianças correm, as mulheres conversam, os homens se divertem nas esquinas e nos bares, os cachorros latem, os carros passam.
+Mas de noite, tudo muda. 
+O burburinho da rua silencia.
+E os sons diurnos são substituídos pelo samba que ecoa pelo morro.
+    
     Quem fincou foi a Rosinha
     Que é cabrocha de alta linha
     E nos olhos tem seu não sei que
