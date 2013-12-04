@@ -16,7 +16,11 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Numa linda madrugada
     Ao voltar da batucada
     Pra dois malandros olhou a sorrir
-
+    
+    Rosinha é charmosa, mas tímida
+    Sua paixão de verdade é advogado
+    Que prometeu lhe pagar pensão de bom agrado
+    
     Ela foi se embora
     Os dois ficaram
     E depois se encontraram
