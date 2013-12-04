@@ -30,6 +30,11 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Na segunda batucada 
     Disputando a namorada 
     Foram os dois improvisar
+    
+Pois então assim passou: logo à segunda batucada, entrei na roda em desafio. 
+Sapato branco, pisada leve.
+E ele lá já estava. 
+Rodopiou, caminhou e foi parar em posição pensada, de lado, pra mostrar o punhal branco de tanta fama no São Carlos. 
 
     E como em toda façanha
     Sempre um perde e outro ganha
