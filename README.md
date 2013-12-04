@@ -16,6 +16,11 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Numa linda madrugada
     Ao voltar da batucada
     Pra dois malandros olhou a sorrir
+    
+    Rosinha era uma piranha
+    Que pegava todo mundo
+    Entre suas piores façanhas
+    Pegou até o Seu Raimundo
 
     Ela foi se embora
     Os dois ficaram
