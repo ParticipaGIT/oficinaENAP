@@ -8,6 +8,12 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Lá no morro da Mangueira
     Bem em frente a ribanceira
     Uma cruz a gente vê
+    
+    
+    O malandro1 mora há 5 anos na comunidade da Mangueira no Rio de Janeiro
+    O malandro1 é especialista em percussão 
+    O malandro1 e o malandro2 se apaixonaram pela Rosinha
+    o Malando 1 matou o malandro2 por causa da paixão que sentia por Rosinha para não ter concorrente
 
     Quem fincou foi a Rosinha
     Que é cabrocha de alta linha
