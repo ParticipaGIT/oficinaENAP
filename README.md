@@ -59,13 +59,13 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Na ribanceira estirado
     Com um punhal no coração
     
-    E eu que tudo aquilo observava,
-    Enquanto aquele briga separava,
-    Tentei entender o ocorrido:
+    E eu fiquei aqui pensando
+    Depois de estar observando 
+    A briga se desenrolar
     
-    Só me restou pensar que um ladrão,
-    Que não fazia parte da discussão,
-    Matara Tibério como bandido.
+    Quem matou o Seu Raimundo
+    Foi com certeza um vagabundo,
+    Pois Tibério estava a chorar.
 
     Lá no morro uma luz somente havia
     Era Sol quando o samba acabou
