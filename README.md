@@ -12,7 +12,12 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Quem fincou foi a Rosinha
     Que é cabrocha de alta linha
     E nos olhos tem seu não sei que
-
+    
+    Rosinha não tinha cravo nem espinha
+    Tomava banho todo dia e era limpinha
+    Mas quando toma uma cervejinha
+    Levanta e dança como uma galinha
+    
     Numa linda madrugada
     Ao voltar da batucada
     Pra dois malandros olhou a sorrir
