@@ -5,10 +5,10 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
 
 ---
 
-    Lá no morro da Mangueira
+    Lá no morro da Mangueira,  
     Bem em frente a ribanceira
     Uma cruz a gente vê
-
+    
     Quem fincou foi a Rosinha
     Que é cabrocha de alta linha
     E nos olhos tem seu não sei que
@@ -16,6 +16,11 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Numa linda madrugada
     Ao voltar da batucada
     Pra dois malandros olhou a sorrir
+
+Carlito é franzinho, parou de estudar novo. 
+Vive no morro com seus 3 irmãos e trabalha como frentista na zona sul.
+Adora samba e logo se encantou com aquele lindo sorriso de Rosinha. 
+Sentiu um estremecimento, o tempo parou, seu corpo flutuava e só tinha olhos para Rosinha.
 
     Ela foi se embora
     Os dois ficaram
