@@ -18,7 +18,6 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Mas quando toma uma cervejinha
     Levanta e dança como uma galinha
     
-
     Numa linda madrugada
     Ao voltar da batucada
     Pra dois malandros olhou a sorrir
