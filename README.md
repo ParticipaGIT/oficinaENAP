@@ -30,6 +30,9 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Na segunda batucada 
     Disputando a namorada 
     Foram os dois improvisar
+    
+    Por isso uma força me leva a cantar
+    Por isso uma força estranha
 
     E como em toda façanha
     Sempre um perde e outro ganha
