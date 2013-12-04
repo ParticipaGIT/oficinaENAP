@@ -37,6 +37,11 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     E perdendo a doce amada
     Foi fumar na encruzilhada
     Passando horas em meditação
+    
+Sujeito fraco e depremido
+deve logo ter morrido 
+não de morte morrida 
+mas de louco suicídio
 
     Quando o sol raiou 
     Foi encontrado 
