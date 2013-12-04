@@ -17,6 +17,10 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Ao voltar da batucada
     Pra dois malandros olhou a sorrir
 
+    Um malandro a conquistou 
+    Ao lhe oferecer uma flor
+    Deveria ela partir?
+    
     Ela foi se embora
     Os dois ficaram
     E depois se encontraram
