@@ -47,3 +47,9 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Era Sol quando o samba acabou
     De noite não houve lua 
     ninguém cantou
+    
+    
+    Sol, pseudônimo de um policial da noite,
+    um inspetor de polícia que monitorava todos os movimentos e acontecimentos,
+    que ocorriam no morro,durante as madrugadas
+    e no amanhecer do dia,registrava tudo
