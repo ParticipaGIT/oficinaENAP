@@ -42,6 +42,15 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Foi encontrado 
     Na ribanceira estirado
     Com um punhal no coração
+    
+    O malandro perdedor
+    Tinha alma de amador
+    Não sabia que ao brigar
+    Ira alheia ia atiçar
+    E no silêncio da madrugada
+    Sua vida dilacerada
+    
+    
 
     Lá no morro uma luz somente havia
     Era Sol quando o samba acabou
