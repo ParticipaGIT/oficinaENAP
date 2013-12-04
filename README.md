@@ -58,6 +58,14 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Foi encontrado 
     Na ribanceira estirado
     Com um punhal no coração
+    
+    E eu que tudo aquilo observava,
+    Enquanto aquele briga separava,
+    Tentei entender o ocorrido:
+    
+    Só me restou pensar que um ladrão,
+    Que não fazia parte da discussão,
+    Matara Tibério como bandido.
 
     Lá no morro uma luz somente havia
     Era Sol quando o samba acabou
