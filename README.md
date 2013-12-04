@@ -42,6 +42,9 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Foi encontrado 
     Na ribanceira estirado
     Com um punhal no coração
+    
+Dizem as más linguas que o malandro que perdeu a disputa era, na verdade, o verdadeiro amor de Rosinha. E que foi até a encruzilhada encontrar sua doce amada.
+O malandro vencedor, ao saber que seria na verdade o perdedor, emboscou o pobre apaixonado e cravou-lhe a adaga no coração, largando o corpo sem vida ribanceira abaixo...
 
     Lá no morro uma luz somente havia
     Era Sol quando o samba acabou
