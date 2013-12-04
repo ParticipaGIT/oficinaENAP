@@ -47,3 +47,7 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Era Sol quando o samba acabou
     De noite não houve lua 
     ninguém cantou
+    
+    Rosinha percebeu que na Mangueira não acharia sua felicidade
+    Largou seus dois cablocos fortes
+    E, no perfume de Margarida, foi encontrar sua verdade.
