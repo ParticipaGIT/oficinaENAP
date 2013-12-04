@@ -42,8 +42,19 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Foi encontrado 
     Na ribanceira estirado
     Com um punhal no coração
+    
+    O assassino que matou
+    Fugiu sem nenhum pudor
+    E a façanha no facebook postou
 
     Lá no morro uma luz somente havia
     Era Sol quando o samba acabou
     De noite não houve lua 
     ninguém cantou
+    
+    O malandro vencedor
+    Hackeou computador
+    A Rosinha conquistou
+    E viajou pra Salvador
+    
+    
