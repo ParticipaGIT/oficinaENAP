@@ -16,7 +16,12 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Numa linda madrugada
     Ao voltar da batucada
     Pra dois malandros olhou a sorrir
-
+    
+    José, malandro conhecido da Mangueira
+    Apaixonado por Rosinha desde de pequeno
+    Ficou a imaginar que cabrocha mais linda 
+    seria dificil de encontrar
+    
     Ela foi se embora
     Os dois ficaram
     E depois se encontraram
@@ -47,3 +52,9 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Era Sol quando o samba acabou
     De noite não houve lua 
     ninguém cantou
+    
+    Rosinha ficou triste
+    pensou em tudo que existe 
+    e, como poderia ela Rosinha
+    se sentir tão sozinha?
+    
