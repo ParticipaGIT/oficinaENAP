@@ -8,6 +8,10 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Lá no morro da Mangueira
     Bem em frente a ribanceira
     Uma cruz a gente vê
+    
+    Rosinha cheia de graça e simpatia
+    Ela anda sobre a calçada, com o coração cheio de luz.
+    Anda, anda sem saber onde seguir, viva viva Rosinha
 
     Quem fincou foi a Rosinha
     Que é cabrocha de alta linha
