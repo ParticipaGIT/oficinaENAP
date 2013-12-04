@@ -16,6 +16,14 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Numa linda madrugada
     Ao voltar da batucada
     Pra dois malandros olhou a sorrir
+    
+    Eram Raimundo e Tibério;
+    Nenhum dos dois era sério,
+    Mas o pior era a rixa;
+    
+    Tudo que um tinha o outro queria
+    Até mesmo se mulher havia
+    Um para o outro não se lixa
 
     Ela foi se embora
     Os dois ficaram
@@ -26,6 +34,14 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Uma luz somente havia
     Era lua que tudo assistia
     Mas quando acabava o samba se escondia
+    
+    E como em toda amizade antiga,
+    Nenhum dos dois queria briga,
+    Mas precisavam resolver a questão:
+    
+    Decidiram que de madrugada,
+    Quando a roda de samba fosse juntada,
+    Iriam dar pra isso uma solução
 
     Na segunda batucada 
     Disputando a namorada 
