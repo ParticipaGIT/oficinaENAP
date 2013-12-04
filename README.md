@@ -47,3 +47,9 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Era Sol quando o samba acabou
     De noite não houve lua 
     ninguém cantou
+    
+    Rosinha ficou triste
+    pensou em tudo que existe 
+    e, como poderia ela Rosinha
+    se sentir tão sozinha?
+    
