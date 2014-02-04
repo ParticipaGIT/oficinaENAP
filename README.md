@@ -8,6 +8,10 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Lá no morro da Mangueira
     Bem em frente a ribanceira
     Uma cruz a gente vê
+    
+    Como toda sexta feira
+    Me enfeitei toda faceira
+    Pra no samba ir dançar
 
     Quem fincou foi a Rosinha
     Que é cabrocha de alta linha
