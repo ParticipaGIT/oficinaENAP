@@ -47,6 +47,11 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Foi encontrado 
     Na ribanceira estirado
     Com um punhal no coração
+    
+    O policial que encontrou o malandro morto
+    Era recém empossado no cargo.
+    Ele ficou transtornado em ter que enfrentar
+    Tal situação logo na primeira semana de trabalho.
 
     Lá no morro uma luz somente havia
     Era Sol quando o samba acabou
