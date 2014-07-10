@@ -8,6 +8,16 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Lá no morro da Mangueira
     Bem em frente a ribanceira
     Uma cruz a gente vê
+    
+    Personagem - Rosinha:
+    Em minha cruz muitas fitas foram amarradas
+    Cada uma uma reza
+    Cada cor uma oração
+    O Padre a cruz não quiz benzer
+    Disse que o local tava marcado
+    Que era coisa do Diabo
+    Briga de namorado
+    
 
     Quem fincou foi a Rosinha
     Que é cabrocha de alta linha
