@@ -42,6 +42,10 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     E perdendo a doce amada
     Foi fumar na encruzilhada
     Passando horas em meditação
+    
+    O perdedor, muito cansado,
+    Sentiu-se envergonhado
+    E dediciu seu próprio fim
 
     Quando o sol raiou 
     Foi encontrado 
