@@ -12,7 +12,7 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Quem fincou foi a Rosinha
     Que é cabrocha de alta linha
     E nos olhos tem seu não sei que
-
+    
     Numa linda madrugada
     Ao voltar da batucada
     Pra dois malandros olhou a sorrir
@@ -31,6 +31,9 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Uma luz somente havia
     Era lua que tudo assistia
     Mas quando acabava o samba se escondia
+
+Do alto a lua testemunhava a bela cabrocha que sambava e arrebatando os corações dos malandros que no samba no Morro da Mangueira se encontravam.  
+    
 
     Na segunda batucada 
     Disputando a namorada 
